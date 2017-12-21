@@ -1,3 +1,3 @@
-# Thermocyler_Block
+# Thermocycler CNC PCR Block Project
 
-A project
+(Insert Good Bio About Project Here)
